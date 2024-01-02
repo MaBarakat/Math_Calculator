@@ -1,0 +1,16 @@
+HAL/KEYPAD/KEYPAD_program.d HAL/KEYPAD/KEYPAD_program.o: \
+ ../HAL/KEYPAD/KEYPAD_program.c \
+ ../HAL/KEYPAD/../../SERVICE/UTILES_LIB/STD_TYPES.h \
+ ../HAL/KEYPAD/../../SERVICE/UTILES_LIB/BIT_MATH.h \
+ ../HAL/KEYPAD/../../MCAL/DIO/DIO_interface.h \
+ ../HAL/KEYPAD/KEYPAD_config.h ../HAL/KEYPAD/KEYPAD_interface.h
+
+../HAL/KEYPAD/../../SERVICE/UTILES_LIB/STD_TYPES.h:
+
+../HAL/KEYPAD/../../SERVICE/UTILES_LIB/BIT_MATH.h:
+
+../HAL/KEYPAD/../../MCAL/DIO/DIO_interface.h:
+
+../HAL/KEYPAD/KEYPAD_config.h:
+
+../HAL/KEYPAD/KEYPAD_interface.h:
