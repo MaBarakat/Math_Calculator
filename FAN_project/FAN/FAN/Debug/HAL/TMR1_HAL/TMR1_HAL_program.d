@@ -1,0 +1,17 @@
+HAL/TMR1_HAL/TMR1_HAL_program.d HAL/TMR1_HAL/TMR1_HAL_program.o: \
+ ../HAL/TMR1_HAL/TMR1_HAL_program.c \
+ ../HAL/TMR1_HAL/../../SERVICE/UTILES_LIB/STD_TYPES.h \
+ ../HAL/TMR1_HAL/../../SERVICE/UTILES_LIB/BIT_MATH.h \
+ ../HAL/TMR1_HAL/../../MCAL/DIO/DIO_interface.h \
+ ../HAL/TMR1_HAL/../../MCAL/TMR1/TMR1_interface.h \
+ ../HAL/TMR1_HAL/TMR1_HAL_interface.h
+
+../HAL/TMR1_HAL/../../SERVICE/UTILES_LIB/STD_TYPES.h:
+
+../HAL/TMR1_HAL/../../SERVICE/UTILES_LIB/BIT_MATH.h:
+
+../HAL/TMR1_HAL/../../MCAL/DIO/DIO_interface.h:
+
+../HAL/TMR1_HAL/../../MCAL/TMR1/TMR1_interface.h:
+
+../HAL/TMR1_HAL/TMR1_HAL_interface.h:

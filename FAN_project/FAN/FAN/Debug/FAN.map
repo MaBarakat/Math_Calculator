@@ -1,0 +1,1009 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              SERVICE/UTILES_LIB/MATH_EQs.o (__subsf3)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              SERVICE/UTILES_LIB/MATH_EQs.o (__divsf3)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              SERVICE/UTILES_LIB/MATH_EQs.o (__fixsfsi)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              HAL/DCM/DCM_program.o (__fixunssfsi)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              HAL/DCM/DCM_program.o (__floatunsisf)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              SERVICE/UTILES_LIB/MATH_EQs.o (__mulsf3)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              HAL/SERVOMOTOR/SERVO_program.o (__divmodhi4)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              MCAL/TMR1/TMR1_program.o (__tablejump2__)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              HAL/DCM/DCM_config.o (__do_copy_data)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              HAL/DCM/DCM_program.o (__do_clear_bss)
+d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+TMR1_CTCBISRPtrFun  0x2               HAL/DCM/DCM_program.o
+TMR1_OVFISRPtrFun   0x2               HAL/DCM/DCM_program.o
+TMR1_CTCAISRPtrFun  0x2               HAL/DCM/DCM_program.o
+TMR1_CAPISRPtrFun   0x2               HAL/DCM/DCM_program.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 APP/main.o
+ .data          0x00000000        0x0 APP/main.o
+ .bss           0x00000000        0x0 APP/main.o
+ .text          0x00000000        0x0 HAL/DCM/DCM_config.o
+ .data          0x00000000        0x0 HAL/DCM/DCM_config.o
+ .bss           0x00000000        0x0 HAL/DCM/DCM_config.o
+ .text          0x00000000        0x0 HAL/DCM/DCM_program.o
+ .data          0x00000000        0x0 HAL/DCM/DCM_program.o
+ .bss           0x00000000        0x0 HAL/DCM/DCM_program.o
+ .text.DCM_on   0x00000000       0xca HAL/DCM/DCM_program.o
+ .text          0x00000000        0x0 HAL/LED/LED_program.o
+ .data          0x00000000        0x0 HAL/LED/LED_program.o
+ .bss           0x00000000        0x0 HAL/LED/LED_program.o
+ .text.LED_toggle
+                0x00000000        0x6 HAL/LED/LED_program.o
+ .text          0x00000000        0x0 HAL/SERVOMOTOR/SERVO_program.o
+ .data          0x00000000        0x0 HAL/SERVOMOTOR/SERVO_program.o
+ .bss           0x00000000        0x0 HAL/SERVOMOTOR/SERVO_program.o
+ .text          0x00000000        0x0 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .data          0x00000000        0x0 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .bss           0x00000000        0x0 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .text          0x00000000        0x0 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .data          0x00000000        0x0 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .bss           0x00000000        0x0 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .text.SEVEN_SEGMENT_BCD_DPon
+                0x00000000       0x24 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .text.SEVEN_SEGMENT_BCD_DPoff
+                0x00000000       0x24 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .text          0x00000000        0x0 HAL/SW/SW_program.o
+ .data          0x00000000        0x0 HAL/SW/SW_program.o
+ .bss           0x00000000        0x0 HAL/SW/SW_program.o
+ .text.SW_activeSwitchPinInPullUpResistance
+                0x00000000        0x6 HAL/SW/SW_program.o
+ .text          0x00000000        0x0 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .data          0x00000000        0x0 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .bss           0x00000000        0x0 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_stop
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_reset
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_writePreloadValue
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_writeComparingValueA
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_writeComparingValueB
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_writeCapturingValue
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_OVRIntEnable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_OVRIntDisable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_CAPtIntEnable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_CAPtIntDisable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_COMPAIntEnable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_COMPAIntDisable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_COMPBIntEnable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_COMPBIntDisable
+                0x00000000        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_OVFISRPtrFun
+                0x00000000       0x14 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_CAPISRPtrFun
+                0x00000000       0x14 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_CTCAISRPtrFun
+                0x00000000       0x14 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text.TMR1_HAL_CTCBISRPtrFun
+                0x00000000       0x14 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .text          0x00000000        0x0 MCAL/DIO/DIO_program.o
+ .data          0x00000000        0x0 MCAL/DIO/DIO_program.o
+ .bss           0x00000000        0x0 MCAL/DIO/DIO_program.o
+ .text.DIO_togglePinValue
+                0x00000000       0x84 MCAL/DIO/DIO_program.o
+ .text.DIO_activePinInPullUpResistance
+                0x00000000       0x84 MCAL/DIO/DIO_program.o
+ .text.DIO_setPortDirection
+                0x00000000       0x70 MCAL/DIO/DIO_program.o
+ .text.DIO_setPortValue
+                0x00000000       0x40 MCAL/DIO/DIO_program.o
+ .text.DIO_getPortValue
+                0x00000000       0x4e MCAL/DIO/DIO_program.o
+ .text.DIO_togglePortValue
+                0x00000000       0x44 MCAL/DIO/DIO_program.o
+ .text.DIO_activePortInPullUpResistance
+                0x00000000       0x3c MCAL/DIO/DIO_program.o
+ .text          0x00000000        0x0 MCAL/TMR1/TMR1_program.o
+ .data          0x00000000        0x0 MCAL/TMR1/TMR1_program.o
+ .bss           0x00000000        0x0 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_stop
+                0x00000000        0x6 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_reset
+                0x00000000        0x6 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_writePreloadValue
+                0x00000000        0x6 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_OVRIntEnable
+                0x00000000        0xe MCAL/TMR1/TMR1_program.o
+ .text.TMR1_OVRIntDisable
+                0x00000000        0x8 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_CAPtIntEnable
+                0x00000000        0xe MCAL/TMR1/TMR1_program.o
+ .text.TMR1_CAPtIntDisable
+                0x00000000        0x8 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_COMPAIntEnable
+                0x00000000        0xe MCAL/TMR1/TMR1_program.o
+ .text.TMR1_COMPAIntDisable
+                0x00000000        0x8 MCAL/TMR1/TMR1_program.o
+ .text.TMR1_COMPBIntEnable
+                0x00000000        0xe MCAL/TMR1/TMR1_program.o
+ .text.TMR1_COMPBIntDisable
+                0x00000000        0x8 MCAL/TMR1/TMR1_program.o
+ .text.TIMER1_NONoise
+                0x00000000        0x8 MCAL/TMR1/TMR1_program.o
+ .text.TIMER1_INCAPFalling
+                0x00000000        0xe MCAL/TMR1/TMR1_program.o
+ .text.TIMER1_INCAPRissing
+                0x00000000        0xe MCAL/TMR1/TMR1_program.o
+ .text          0x00000000        0x0 SERVICE/UTILES_LIB/MATH_EQs.o
+ .data          0x00000000        0x0 SERVICE/UTILES_LIB/MATH_EQs.o
+ .bss           0x00000000        0x0 SERVICE/UTILES_LIB/MATH_EQs.o
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD APP/main.o
+LOAD HAL/DCM/DCM_config.o
+LOAD HAL/DCM/DCM_program.o
+LOAD HAL/LED/LED_program.o
+LOAD HAL/SERVOMOTOR/SERVO_program.o
+LOAD HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+LOAD HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+LOAD HAL/SW/SW_program.o
+LOAD HAL/TMR1_HAL/TMR1_HAL_program.o
+LOAD MCAL/DIO/DIO_program.o
+LOAD MCAL/TMR1/TMR1_program.o
+LOAD SERVICE/UTILES_LIB/MATH_EQs.o
+START GROUP
+LOAD d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1200
+ *(.vectors)
+ .vectors       0x00000000       0x54 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.TMR1_init
+                0x00000054       0x20 MCAL/TMR1/TMR1_program.o
+                0x00000074                . = ALIGN (0x2)
+                0x00000074                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000074        0x0 linker stubs
+ *(.trampolines*)
+                0x00000074                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000074                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000074                __ctors_start = .
+ *(.ctors)
+                0x00000074                __ctors_end = .
+                0x00000074                __dtors_start = .
+ *(.dtors)
+                0x00000074                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000074        0x0 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000074                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000074        0xc D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000080       0x16 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000080                __do_copy_data
+ .init4         0x00000096       0x10 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000096                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000a6        0x8 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ae        0x4 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x000000ae                __vector_1
+                0x000000ae                __vector_12
+                0x000000ae                __bad_interrupt
+                0x000000ae                __vector_3
+                0x000000ae                __vector_11
+                0x000000ae                __vector_13
+                0x000000ae                __vector_17
+                0x000000ae                __vector_19
+                0x000000ae                __vector_5
+                0x000000ae                __vector_4
+                0x000000ae                __vector_2
+                0x000000ae                __vector_15
+                0x000000ae                __vector_14
+                0x000000ae                __vector_10
+                0x000000ae                __vector_16
+                0x000000ae                __vector_18
+                0x000000ae                __vector_20
+                0x000000b2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x000000b2      0x176 APP/main.o
+                0x000000b2                main
+ .text.DCM_init
+                0x00000228       0x52 HAL/DCM/DCM_program.o
+                0x00000228                DCM_init
+ .text.DCM_onControlSpeed
+                0x0000027a      0x10a HAL/DCM/DCM_program.o
+                0x0000027a                DCM_onControlSpeed
+ .text.DCM_off  0x00000384       0x50 HAL/DCM/DCM_program.o
+                0x00000384                DCM_off
+ .text.LED_init
+                0x000003d4        0x8 HAL/LED/LED_program.o
+                0x000003d4                LED_init
+ .text.LED_on   0x000003dc        0x8 HAL/LED/LED_program.o
+                0x000003dc                LED_on
+ .text.LED_off  0x000003e4        0x8 HAL/LED/LED_program.o
+                0x000003e4                LED_off
+ .text.SERVO_init
+                0x000003ec       0x22 HAL/SERVOMOTOR/SERVO_program.o
+                0x000003ec                SERVO_init
+ .text.SERVO_angle
+                0x0000040e      0x126 HAL/SERVOMOTOR/SERVO_program.o
+                0x0000040e                SERVO_angle
+ .text.SEVEN_SEGMENT_BCD_init
+                0x00000534       0x88 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+                0x00000534                SEVEN_SEGMENT_BCD_init
+ .text.SEVEN_SEGMENT_BCD_write
+                0x000005bc       0x7e HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+                0x000005bc                SEVEN_SEGMENT_BCD_write
+ .text.SEVEN_SEGMENT_BCD_off
+                0x0000063a       0x24 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+                0x0000063a                SEVEN_SEGMENT_BCD_off
+ .text.SW_init  0x0000065e        0x8 HAL/SW/SW_program.o
+                0x0000065e                SW_init
+ .text.SW_getSwitchPinValue
+                0x00000666        0x6 HAL/SW/SW_program.o
+                0x00000666                SW_getSwitchPinValue
+ .text.TMR1_HAL_init
+                0x0000066c        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+                0x0000066c                TMR1_HAL_init
+ .text.TMR1_HAL_start
+                0x00000672        0x6 HAL/TMR1_HAL/TMR1_HAL_program.o
+                0x00000672                TMR1_HAL_start
+ .text.DIO_setPinDirection
+                0x00000678      0x10c MCAL/DIO/DIO_program.o
+                0x00000678                DIO_setPinDirection
+ .text.DIO_setPinValue
+                0x00000784      0x10c MCAL/DIO/DIO_program.o
+                0x00000784                DIO_setPinValue
+ .text.DIO_getPinValue
+                0x00000890       0x8e MCAL/DIO/DIO_program.o
+                0x00000890                DIO_getPinValue
+ .text.__vector_6
+                0x0000091e       0x4e MCAL/TMR1/TMR1_program.o
+                0x0000091e                __vector_6
+ .text.__vector_7
+                0x0000096c       0x4e MCAL/TMR1/TMR1_program.o
+                0x0000096c                __vector_7
+ .text.__vector_8
+                0x000009ba       0x4e MCAL/TMR1/TMR1_program.o
+                0x000009ba                __vector_8
+ .text.__vector_9
+                0x00000a08       0x4e MCAL/TMR1/TMR1_program.o
+                0x00000a08                __vector_9
+ .text.TMR1_init
+                0x00000a56      0x23a MCAL/TMR1/TMR1_program.o
+                0x00000a56                TMR1_init
+ .text.TMR1_start
+                0x00000c90        0x8 MCAL/TMR1/TMR1_program.o
+                0x00000c90                TMR1_start
+ .text.TMR1_writeComparingValueA
+                0x00000c98        0x6 MCAL/TMR1/TMR1_program.o
+                0x00000c98                TMR1_writeComparingValueA
+ .text.TMR1_writeComparingValueB
+                0x00000c9e        0x6 MCAL/TMR1/TMR1_program.o
+                0x00000c9e                TMR1_writeComparingValueB
+ .text.TMR1_writeCapturingValue
+                0x00000ca4        0x6 MCAL/TMR1/TMR1_program.o
+                0x00000ca4                TMR1_writeCapturingValue
+ .text.TMR1_tickTimemicro
+                0x00000caa        0x4 MCAL/TMR1/TMR1_program.o
+                0x00000caa                TMR1_tickTimemicro
+ .text.MAP      0x00000cae       0xd2 SERVICE/UTILES_LIB/MATH_EQs.o
+                0x00000cae                MAP
+ .text.avr-libc.fplib
+                0x00000d80        0xe d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00000d80                __subsf3
+                0x00000d82                __addsf3
+ .text.avr-libc.fplib
+                0x00000d8e       0xcc d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00000db0                __addsf3x
+ .text.avr-libc.fplib
+                0x00000e5a        0x8 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000e5a                __divsf3
+ .text.avr-libc.fplib
+                0x00000e62       0xdc d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00000e82                __divsf3x
+                0x00000e88                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000f3e        0xe d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x00000f3e                __fixsfsi
+ .text.avr-libc.fplib
+                0x00000f4c       0x5e d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000f4c                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000faa       0x7a d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000faa                __floatunsisf
+                0x00000fae                __floatsisf
+ .text.avr-libc.fplib
+                0x00001024        0xc d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001024                __fp_inf
+ .text.avr-libc.fplib
+                0x00001030        0x6 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001030                __fp_nan
+ .text.avr-libc.fplib
+                0x00001036        0xe d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001036                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001044        0xe d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001044                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001052       0x22 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001052                __fp_round
+ .text.avr-libc.fplib
+                0x00001074       0x44 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00001074                __fp_split3
+                0x00001084                __fp_splitA
+ .text.avr-libc.fplib
+                0x000010b8        0xe d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000010b8                __fp_zero
+                0x000010ba                __fp_szero
+ .text.avr-libc.fplib
+                0x000010c6        0x8 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000010c6                __mulsf3
+ .text.avr-libc.fplib
+                0x000010ce       0xd2 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000010ec                __mulsf3x
+                0x000010f2                __mulsf3_pse
+ .text.libgcc.div
+                0x000011a0       0x28 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x000011a0                _div
+                0x000011a0                __divmodhi4
+ .text.libgcc   0x000011c8        0xc d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x000011c8                __tablejump2__
+ .text.libgcc.div
+                0x000011d4       0x28 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x000011d4                __udivmodhi4
+                0x000011fc                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000011fc        0x0 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000011fc                _exit
+                0x000011fc                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000011fc        0x4 d:/learning to work/embedded systems from amit/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001200                _etext = .
+
+.data           0x00800060       0x16 load address 0x00001200
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.DCM_Pins
+                0x00800060        0x3 HAL/DCM/DCM_config.o
+                0x00800060                DCM_Pins
+ .data.DCM_Ports
+                0x00800063        0x3 HAL/DCM/DCM_config.o
+                0x00800063                DCM_Ports
+ .data.SEVEN_SEGMENT_BCD_DataPins
+                0x00800066        0x8 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                0x00800066                SEVEN_SEGMENT_BCD_DataPins
+ .data.SEVEN_SEGMENT_BCD_DPpin
+                0x0080006e        0x2 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                0x0080006e                SEVEN_SEGMENT_BCD_DPpin
+ .data.SEVEN_SEGMENT_BCD_DPport
+                0x00800070        0x2 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                0x00800070                SEVEN_SEGMENT_BCD_DPport
+ .data.SEVEN_SEGMENT_BCD_ENpin
+                0x00800072        0x2 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                0x00800072                SEVEN_SEGMENT_BCD_ENpin
+ .data.SEVEN_SEGMENT_BCD_ENport
+                0x00800074        0x2 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                0x00800074                SEVEN_SEGMENT_BCD_ENport
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800076                . = ALIGN (0x2)
+                0x00800076                _edata = .
+                0x00800076                PROVIDE (__data_end, .)
+
+.bss            0x00800076       0x10
+                0x00800076                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.SEVEN_SEGMENT_BCD_DataPort
+                0x00800076        0x8 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                0x00800076                SEVEN_SEGMENT_BCD_DataPort
+ *(COMMON)
+ COMMON         0x0080007e        0x8 HAL/DCM/DCM_program.o
+                0x0080007e                TMR1_CTCBISRPtrFun
+                0x00800080                TMR1_OVFISRPtrFun
+                0x00800082                TMR1_CTCAISRPtrFun
+                0x00800084                TMR1_CAPISRPtrFun
+                0x00800086                PROVIDE (__bss_end, .)
+                0x00001200                __data_load_start = LOADADDR (.data)
+                0x00001216                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800086        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800086                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 APP/main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 HAL/DCM/DCM_config.o
+ .comment       0x00000030       0x31 HAL/DCM/DCM_program.o
+ .comment       0x00000030       0x31 HAL/LED/LED_program.o
+ .comment       0x00000030       0x31 HAL/SERVOMOTOR/SERVO_program.o
+ .comment       0x00000030       0x31 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .comment       0x00000030       0x31 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .comment       0x00000030       0x31 HAL/SW/SW_program.o
+ .comment       0x00000030       0x31 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .comment       0x00000030       0x31 MCAL/DIO/DIO_program.o
+ .comment       0x00000030       0x31 MCAL/TMR1/TMR1_program.o
+ .comment       0x00000030       0x31 SERVICE/UTILES_LIB/MATH_EQs.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x370
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 APP/main.o
+ .debug_aranges
+                0x00000020       0x18 HAL/DCM/DCM_config.o
+ .debug_aranges
+                0x00000038       0x38 HAL/DCM/DCM_program.o
+ .debug_aranges
+                0x00000070       0x38 HAL/LED/LED_program.o
+ .debug_aranges
+                0x000000a8       0x28 HAL/SERVOMOTOR/SERVO_program.o
+ .debug_aranges
+                0x000000d0       0x18 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .debug_aranges
+                0x000000e8       0x40 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_aranges
+                0x00000128       0x30 HAL/SW/SW_program.o
+ .debug_aranges
+                0x00000158       0xb8 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_aranges
+                0x00000210       0x68 MCAL/DIO/DIO_program.o
+ .debug_aranges
+                0x00000278       0xd8 MCAL/TMR1/TMR1_program.o
+ .debug_aranges
+                0x00000350       0x20 SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2543
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6      0x4ca APP/main.o
+ .debug_info    0x000009b0       0x9b HAL/DCM/DCM_config.o
+ .debug_info    0x00000a4b      0x3a3 HAL/DCM/DCM_program.o
+ .debug_info    0x00000dee      0x220 HAL/LED/LED_program.o
+ .debug_info    0x0000100e      0x286 HAL/SERVOMOTOR/SERVO_program.o
+ .debug_info    0x00001294       0xf3 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .debug_info    0x00001387      0x2bf HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_info    0x00001646      0x1e8 HAL/SW/SW_program.o
+ .debug_info    0x0000182e      0x560 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_info    0x00001d8e      0x328 MCAL/DIO/DIO_program.o
+ .debug_info    0x000020b6      0x3a1 MCAL/TMR1/TMR1_program.o
+ .debug_info    0x00002457       0xec SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_abbrev   0x00000000      0xe76
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3      0x12c APP/main.o
+ .debug_abbrev  0x000005cf       0x4b HAL/DCM/DCM_config.o
+ .debug_abbrev  0x0000061a      0x147 HAL/DCM/DCM_program.o
+ .debug_abbrev  0x00000761       0xa7 HAL/LED/LED_program.o
+ .debug_abbrev  0x00000808       0xfb HAL/SERVOMOTOR/SERVO_program.o
+ .debug_abbrev  0x00000903       0x4b HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .debug_abbrev  0x0000094e      0x10d HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_abbrev  0x00000a5b       0xb0 HAL/SW/SW_program.o
+ .debug_abbrev  0x00000b0b       0xed HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_abbrev  0x00000bf8       0xea MCAL/DIO/DIO_program.o
+ .debug_abbrev  0x00000ce2      0x11f MCAL/TMR1/TMR1_program.o
+ .debug_abbrev  0x00000e01       0x75 SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_line     0x00000000     0x1cb9
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x116 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000116      0x3a6 APP/main.o
+ .debug_line    0x000004bc       0x68 HAL/DCM/DCM_config.o
+ .debug_line    0x00000524      0x24e HAL/DCM/DCM_program.o
+ .debug_line    0x00000772      0x119 HAL/LED/LED_program.o
+ .debug_line    0x0000088b      0x17d HAL/SERVOMOTOR/SERVO_program.o
+ .debug_line    0x00000a08       0x92 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+ .debug_line    0x00000a9a      0x230 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_line    0x00000cca       0xf8 HAL/SW/SW_program.o
+ .debug_line    0x00000dc2      0x2ee HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_line    0x000010b0      0x637 MCAL/DIO/DIO_program.o
+ .debug_line    0x000016e7      0x563 MCAL/TMR1/TMR1_program.o
+ .debug_line    0x00001c4a       0x6f SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_frame    0x00000000      0x7c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x34 APP/main.o
+ .debug_frame   0x00000034       0xbc HAL/DCM/DCM_program.o
+ .debug_frame   0x000000f0       0x54 HAL/LED/LED_program.o
+ .debug_frame   0x00000144       0x80 HAL/SERVOMOTOR/SERVO_program.o
+ .debug_frame   0x000001c4       0x8c HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_frame   0x00000250       0x44 HAL/SW/SW_program.o
+ .debug_frame   0x00000294      0x154 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_frame   0x000003e8       0xb4 MCAL/DIO/DIO_program.o
+ .debug_frame   0x0000049c      0x2b4 MCAL/TMR1/TMR1_program.o
+ .debug_frame   0x00000750       0x70 SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_str      0x00000000      0xf2d
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 D:/learning to work/Embedded Systems from Amit/atmel/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x2b7 APP/main.o
+                                0x2f1 (size before relaxing)
+ .debug_str     0x0000044d       0x7a HAL/DCM/DCM_config.o
+                                0x184 (size before relaxing)
+ .debug_str     0x000004c7      0x11e HAL/DCM/DCM_program.o
+                                0x2ae (size before relaxing)
+ .debug_str     0x000005e5       0x80 HAL/LED/LED_program.o
+                                0x20c (size before relaxing)
+ .debug_str     0x00000665       0xaa HAL/SERVOMOTOR/SERVO_program.o
+                                0x288 (size before relaxing)
+ .debug_str     0x0000070f       0xcc HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_config.o
+                                0x231 (size before relaxing)
+ .debug_str     0x000007db       0xe9 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+                                0x34f (size before relaxing)
+ .debug_str     0x000008c4       0xc9 HAL/SW/SW_program.o
+                                0x24a (size before relaxing)
+ .debug_str     0x0000098d      0x3aa HAL/TMR1_HAL/TMR1_HAL_program.o
+                                0x5ae (size before relaxing)
+ .debug_str     0x00000d37       0xd7 MCAL/DIO/DIO_program.o
+                                0x2e8 (size before relaxing)
+ .debug_str     0x00000e0e       0xc8 MCAL/TMR1/TMR1_program.o
+                                0x3d3 (size before relaxing)
+ .debug_str     0x00000ed6       0x57 SERVICE/UTILES_LIB/MATH_EQs.o
+                                0x1bc (size before relaxing)
+
+.debug_loc      0x00000000     0x1cb4
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x117 APP/main.o
+ .debug_loc     0x00000117      0x3fb HAL/DCM/DCM_program.o
+ .debug_loc     0x00000512      0x108 HAL/LED/LED_program.o
+ .debug_loc     0x0000061a      0x227 HAL/SERVOMOTOR/SERVO_program.o
+ .debug_loc     0x00000841      0x286 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_loc     0x00000ac7       0xec HAL/SW/SW_program.o
+ .debug_loc     0x00000bb3      0x1ee HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_loc     0x00000da1      0x86b MCAL/DIO/DIO_program.o
+ .debug_loc     0x0000160c      0x4dd MCAL/TMR1/TMR1_program.o
+ .debug_loc     0x00001ae9      0x1cb SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x2d0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 APP/main.o
+ .debug_ranges  0x00000010       0x58 HAL/DCM/DCM_program.o
+ .debug_ranges  0x00000068       0x28 HAL/LED/LED_program.o
+ .debug_ranges  0x00000090       0x18 HAL/SERVOMOTOR/SERVO_program.o
+ .debug_ranges  0x000000a8       0x30 HAL/SEVEN_SEGMENT_BCD/SEVEN_SEGMENT_BCD_program.o
+ .debug_ranges  0x000000d8       0x20 HAL/SW/SW_program.o
+ .debug_ranges  0x000000f8       0xa8 HAL/TMR1_HAL/TMR1_HAL_program.o
+ .debug_ranges  0x000001a0       0x58 MCAL/DIO/DIO_program.o
+ .debug_ranges  0x000001f8       0xc8 MCAL/TMR1/TMR1_program.o
+ .debug_ranges  0x000002c0       0x10 SERVICE/UTILES_LIB/MATH_EQs.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(FAN.elf elf32-avr)
+LOAD linker stubs

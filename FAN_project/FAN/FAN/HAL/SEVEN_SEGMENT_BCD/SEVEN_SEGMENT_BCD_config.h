@@ -1,0 +1,23 @@
+﻿/*
+ * SEVEN_SEGMENT_BCD_config.h
+ *
+ * Created: 31/12/2023
+ *  Author: Dell
+ */ 
+
+
+#ifndef SEVEN_SEGMENT_BCD_CONFIG_H_
+#define SEVEN_SEGMENT_BCD_CONFIG_H_
+
+
+#define SEVEN_SEGMENT_BCD_NUM 2
+
+//SEVEN_SEGMENT type
+#define CATHODE_SEVEN_SEGMENT   0
+#define ANODE_SEVEN_SEGMENT		1
+
+#define SEVEN_SEGMENT_BCD_TYPE		ANODE_SEVEN_SEGMENT
+
+
+
+#endif /* SEVEN_SEGMENT]_BCD_CONFIG_H_ */
